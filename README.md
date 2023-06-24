@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Taylor Picard. I'm currently a student, learning about web development and how to code. My pronouns are she/her.
 <!--
 **taylor-picard/taylor-picard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
