@@ -1,5 +1,6 @@
 ### Hi there 👋
 Taylor Picard 
+
 Software Engineer | Full Stack Web Developer | JavaScript, React, HTML, CSS, SQL
 
 I'm a Full-Stack Software Engineer using my skills and creativity to level up web applications!
