@@ -27,7 +27,8 @@ I've had to use the client side of various software in past occupations, from he
 
 💻 CURRENT TECH SKILLS:
 
-✅ Full Stack Web Development --> HTML, CSS, JavaScript, React, Node, Express
+✅ Full Stack Web Development --> Front End: React.js, Express.js, Redux, Hooks, Context API, Yup, Axios, JavaScript, HTML, CSS
+                                  Back End: Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku
 
 ✅ Testing (Unit testing, integration testing, End-to-end testing) --> Jest, Supertest, Cypress
 <!--
